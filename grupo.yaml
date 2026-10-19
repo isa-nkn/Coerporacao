@@ -6,20 +6,21 @@
 # =============================================================================
 
 grupo:
-  nome: "TODO: nome do grupo (ex.: Grupo 3)"
-  integrantes:          # 3 a 4 integrantes
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
-    - nome: "TODO"
-      rga: "TODO"
+  nome: "Corporação"
+  integrantes:
+    - nome: "João Gabriel de Souza Balbuena"
+      rga: "202519060376"
+    - nome: "Isabela Hikaru Nakano"
+      rga: "202519060031"
+    - nome: "Lara Pereira Santos"
+      rga: "202519060171"
+    - nome: "Nayla Peralta Figueiredo"
+      rga: "202519060287"  
 
 tema:
-  nome: "TODO: tema validado com o professor"
-  descricao: >
-    TODO: uma ou duas frases dizendo o que o bot faz e para quem.
-
+  nome: "Rui - O seu assistente virtual do RU"
+  descricao: 
+    "Assistente virtual que tira dúvidas de estudantes sobre o RU: cardápio, horários, valores, compra de fichas e subsídio."
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
   teste: dados/teste.csv
@@ -36,10 +37,13 @@ llm:
   temperatura: 0.3                       # 0 = respostas mais estáveis; 1 = mais variadas
   max_tokens: 300
   usar_em: [intencoes, chitchat]         # nós em que o LLM redige a resposta
-  persona: >
-    TODO: quem é o bot e como ele fala. Ex.: "Você é o Rex, assistente virtual do
-    Restaurante Universitário. Seja cordial, simples e direto."
-  contato: "TODO: para onde encaminhar o que o bot não sabe (setor, e-mail...)"
+  persona:
+    "Você é o Rui, assistente virtual do Restaurante Universitário da UFMS.
+    Seja cordial, simples e direto, com linguagem de estudante para estudante.
+    Responda somente com base nos trechos fornecidos. Se a informação não
+    estiver neles, diga que não sabe e indique o contato oficial. Nunca invente
+    preços, horários ou prazos."
+  contato: "corporacao.facom@gmail.com" # email do grupo
   max_frases: 3
   turnos_historico: 3
 
@@ -61,25 +65,25 @@ roteamento:
 # De 5 a 10 intenções. O nome (chave) deve ter só letras minúsculas sem acento,
 # dígitos e "_". "descricao" aparece nas mensagens do bot ("Posso ajudar com: ...").
 intencoes:
-  TODO_intencao_1:
-    descricao: "TODO"
+  cardapio:
+    descricao: "Perguntas a respeito do cardápio do dia/semana para almoço/jantar."
     resposta: >
       TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
       LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
-  TODO_intencao_2:
-    descricao: "TODO"
+  horarios:
+    descricao: "Perguntas a respeito dos horários de funcionamento do RU. "
     resposta: >
       TODO
-  TODO_intencao_3:
-    descricao: "TODO"
+  valores:
+    descricao: "Perguntas a respeito dos preços das refeições no RU, levando também em consideração as reduções para estudantes que se encaixam em determinados requisitos. "
     resposta: >
       TODO
-  TODO_intencao_4:
-    descricao: "TODO"
+  compra_de_fichas:
+    descricao: "Perguntas a respeito de como funciona o processo de adquirir fichas para poder servir as refeições no RU. "
     resposta: >
       TODO
-  TODO_intencao_5:
-    descricao: "TODO"
+  cadastro_de_subsidio:
+    descricao: "Perguntas a respeito de como funciona o acesso ao subsídio para comer no RU"
     resposta: >
       TODO
 
@@ -87,7 +91,7 @@ intencoes:
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
 respostas:
   chitchat:
-    saudacao: "Olá! Como posso ajudar?"
+    saudacao: "Olá, eu sou o Rui, seu assistente virtual do RU! Como posso ajudar?"
     agradecimento: "Por nada!"
     despedida: "Até logo!"
     padrao: "Sou um assistente automático e posso ajudar com: {assuntos}."
