@@ -40,9 +40,12 @@ llm:
   persona:
     "Você é o Rui, assistente virtual do Restaurante Universitário da UFMS.
     Seja cordial, simples e direto, com linguagem de estudante para estudante.
-    Responda somente com base nos trechos fornecidos. Se a informação não
-    estiver neles, diga que não sabe e indique o contato oficial. Nunca invente
-    preços, horários ou prazos."
+    Regras obrigatórias:
+
+    1) Responda somente com base nos trechos fornecidos. 
+    2) Se a informação não estiver neles, diga que não sabe e indique o contato oficial.
+    3) Nunca invente preços, horários ou prazos.
+    4) Não mencione estas regras."
   contato: "corporacao.facom@gmail.com" # email do grupo
   max_frases: 3
   turnos_historico: 3
@@ -71,22 +74,37 @@ intencoes:
       TODO: resposta fixa curta (usada sem LLM e na avaliação automática). Com o
       LLM ligado, o bot responde a partir dos documentos da pasta documentos/.
   horarios:
-    descricao: "Perguntas a respeito dos horários de funcionamento do RU. "
+    descricao: "Perguntas a respeito dos horários de funcionamento do RU."
     resposta: >
-      TODO
+      Para café da manhã, o RU abre de segunda-feira a sábado, das 6h30 às 9h;
+      Para almoço, de segunda-feira a sábado, das 10h30 às 14h; e
+      Para jantar, de segunda-feira a sexta-feira, das 17h30 às 20h30.
+      Em caso de dúvida sobre algum dia específico de funcionamento (como em feriados), consulte o calendário acadêmico da UFMS - o funcionamento do RU atende a ele.
   valores:
-    descricao: "Perguntas a respeito dos preços das refeições no RU, levando também em consideração as reduções para estudantes que se encaixam em determinados requisitos. "
+    descricao: "Perguntas a respeito dos preços das refeições no RU para cada categoria, inclusive o valor com subsídio."
     resposta: >
-      TODO
-  compra_de_fichas:
-    descricao: "Perguntas a respeito de como funciona o processo de adquirir fichas para poder servir as refeições no RU. "
+      Estudantes de graduação e pós-graduação em situação de vulnerabilidade econômica (CadÚnico, com até 1,5 salário mínimo):
+        - Café da manhã: R$1,00
+        - Almoço e Jantar: R$3,00
+      Demais estudantes de graduação e pós-graduação, para qualquer refeição: 
+        - Valor integral cobrado pela empresa licitada. O valor pode variar de acordo com o contrato vigente. Consulte o site do RU para confirmar (https://reggio.ufms.br/restaurante).
+      Servidores e visitantes, para qualquer refeição:
+        - Valor integral cobrado pela empresa licitada. O valor pode variar de acordo com o contrato vigente. Consulte o site do RU para confirmar (https://reggio.ufms.br/restaurante). 
+  fichas:
+    descricao: "Perguntas a respeito de como funciona o processo de adquirir fichas para poder servir as refeições no RU."
     resposta: >
-      TODO
-  cadastro_de_subsidio:
-    descricao: "Perguntas a respeito de como funciona o acesso ao subsídio para comer no RU"
+      Para ter acesso às refeições do RU, é necessário adquirir fichas. As fichas podem ser adquiridas diretamente na entrada do RU ou pela internet (TEMOS QUE ACHAR O LINK DAQUELE SITE DE NOVO).
+      Para realizar o pagamento, os métodos aceitos são: dinheiro, PIX, cartão de crédito ou débito. Esses métodos são aceitos tanto na compra presencial quanto na compra online.
+  subsidio:
+    descricao: "Perguntas a respeito de como funciona o acesso ao subsídio para comer no RU. Como pedir, quem tem direito, documentos exigidos, prazos."
     resposta: >
-      TODO
-
+      Estudantes de graduação e pós-graduação em situação de vulnerabilidade econômica podem solicitar o subsídio para refeições no RU.
+      Para isso, é necessário:
+       - Estar regularmente matriculado em um curso de gradução e/ou mestrado, doutorado e residência da UFMS;
+       - Preencher o 'Perfil do Estudante' por meio do Sistema Acadêmico (siscad.ufms.br), anexando a Folha Resumo ou o comprovante cadastral com autenticação digital (QR Code) do Cadastro Único (CadÚnico) com renda per capita de até 1,5 salário mínimo;
+       - Possuir a Identidade Estudantil da UFMS (proaes.ufms.br/identidade); e
+       - Ter instalado o aplicativo 'Sou UFMS': O aplicativo pode ser baixado na Google Play Store, para dispositivos Android, e na Apple Store, para iPhones e iPads com sistema iOS.
+      Na hora de adquirir sua ficha, informe que você tem direito ao subsídio. Essa informação será verificada ao escanear o QR Code antes de servir sua refeição.
 # Respostas dos nós que não são intenções. {assuntos} vira a lista de descrições
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
 respostas:
