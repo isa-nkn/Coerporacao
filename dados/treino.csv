@@ -428,7 +428,7 @@ Quanto em porcentagem representam os veganos que se alimentam no ru?,fora_domini
 "Bom dia, eu ja tomei café da manhã, agora só falta almoçar. Onde fica a biblioteca da uf?",fora_dominio,humano
 Qual as comidas do ru hj?,cardapio,humano
 O q q tem pra comer hj?,cardapio,humano
-"F"ala meu rei, que comida tem hj la no ru?",cardapio,humano
+"Fala meu rei, que comida tem hj la no ru?",cardapio,humano
 Meu consagrado,manda o cardápio aí,cardapio,humano
 Tem como comer no RU sendo vegetariano?,cardapio,humano
 Tem sobremesa no RU?,cardapio,humano
