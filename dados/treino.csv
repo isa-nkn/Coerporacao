@@ -426,3 +426,78 @@ Onde eu faço denúncia de intoxicação alimentar? Comi no mandacari e tive uma
 Baseado nas calorias dos pratos da semana faça um plano de dieta para mim. Estou querendo emagrecer,fora_dominio,humano
 Quanto em porcentagem representam os veganos que se alimentam no ru?,fora_dominio,humano
 "Bom dia, eu ja tomei café da manhã, agora só falta almoçar. Onde fica a biblioteca da uf?",fora_dominio,humano
+Qual as comidas do ru hj?,cardapio,humano
+O q q tem pra comer hj?,cardapio,humano
+Fala meu rei, que comida tem hj la no ru?,cardapio,humano
+Meu consagrado,manda o cardápio aí,cardapio,humano
+Tem como comer no RU sendo vegetariano?,cardapio,humano
+Tem sobremesa no RU?,cardapio,humano
+Quantas proteínas podemos pegar no RU?,cardapio,humano
+Quais as coisas que vem no prato do RU?,cardapio,humano
+Posso pegar duas sobremesas?,cardapio,humano
+Como posso ver o cardapio original da semana?,cardapio,humano
+Da para tirar a carne do cardápio?,cardapio,humano
+Que horas abre o ru?,horarios,humano
+Quando começa e termina o almoço?,horarios,humano
+Qual o primeiro horário para jantar?,horarios,humano
+Posso jantar até que horas?,horarios,humano
+O RU fica aberto o dia todo?,horarios,humano
+Até quando posso ir almoçar no RU?,horarios,humano
+Qual o limite de horário para comprar café da manhã?,horarios,humano
+Qual o horário de fechamento do RU?,horarios,humano
+Qual horário o RU começa a atender?,horarios,humano
+Quantas horas o RU fica aberto?,horarios,humano
+Da para ir almoçar as 15h no RU?,horarios,humano
+É possível jantar no RU 23h30?,horarios,humano
+Posso tomar café da manhã 6h da manhã?,horarios,humano
+Da pra eu começar a jantar as 17h30?,horarios,humano
+Quanto preciso pagar na ficha de almoço?,valores,humano
+Qual o valor do café da manhã?,valores,humano
+Quanto é a janta?,valores,humano
+Quantos reais é ficha completa de janta?,valores,humano
+Quanto preciso para comer um dia no RU?,valores,humano
+"O preço da janta, do almoço e do café da manhã são iguais?",valores,humano
+O valor do jantar é maior que do almoço?,valores,humano
+Da para pagar meio valor para crianças?,valores,humano
+Os preços das fichas são sempre os mesmos durante o mês?,valores,humano
+"Almoço, janta e café da manhã são quanto?",valores,humano
+Me fala aí o preço das refeições,valores,humano
+"Se eu comprar uma ficha de almoço, posso usar na janta?",fichas,humano
+"Se eu comprar uma ficha de café da manhã hoje, posso usar ela amanhã?",fichas,humano
+Quanto é a ficha de almoço para estudantes da UFMS?,valores,humano
+Quanto é a ficha de almoço do RU para pessoas externas da faculdade?,valores,humano
+Posso pegar 10 fichas de uma vez?,fichas,humano
+Onde compro as fichas do RU?,fichas,humano
+Qual o local correto pra comprar as fichas?,fichas,humano
+Tem q comprar as fichas fora do RU?,fichas,humano
+Me fala o valor da ficha pra todas as refeições no dia de hoje.,valores,humano
+Quem pode ter acesso a desconto no RU?,subsidio,humano
+Porque tem pessoas que pagam mais barato no RU?,subsidio,humano
+Posso pagar mais barato nas fichas do RU também?,subsidio,humano
+Quem tem bolsa de extensão tem que pagar o valor todo?,subsidio,humano
+O Cadunico é o único meio de pagar valor mais baixo na ficha?,subsidio,humano
+Quais os pré-requisitos para ter subsídio?,subsidio,humano
+Me fale o que devo ter para poder usar subsídio,subsidio,humano
+"Não tenho cadastro único, posso ter subsídio?",subsidio,humano
+Qual a exigência para poder ter desconto no RU?,subsidio,humano
+Quanto paga quem tem acesso a subsídio no RU?,subsidio,humano
+"Oiii ruii, bom demais?",chitchat,humano
+"Helloo, td certo?",chitchat,humano
+"Rói, é... rui né?",chitchat,humano
+"Olá! Tudo blz rui?",chitchat,humano
+Vlww,chitchat,humano
+Vlww dmss,chitchat,humano
+Obggg,chitchat,humano
+Tmj parceiro,chitchat,humano
+"Vlww, flw",chitchat,humano
+"Beleza, obg viu",chitchat,humano
+"Blzzz, falou",chitchat,humano
+"Vlw irmão, tmj",chitchat,humano
+Quais os lanches disponíveis na cantina das quadras?,fora_dominio,humano
+A cantina do multiuso está a aberta?,fora_dominio,humano
+O evento x reservou o RU?,fora_dominio,humano
+Porque tem carne de porco entre as opções de comida do RU?,cardapio,humano
+"Posso pagar uma ficha no almoço, ficar no RU ate a janta e comer de novo de graça?",fichas,humano
+Quanto é o cone do moço do RU?,fora_dominio,humano
+Qual o nome do menino que interrompe as pessoas para vender brownie?,fora_dominio,humano
+Tem limite de colheres de arroz que eu posso pegar?*****************,cardapio,humano

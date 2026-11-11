@@ -1,1 +1,238 @@
 texto,intencao,origem
+Qual o cardápio de hoje?,cardapio,humano
+"Eu vi no insta que tinha barata pra comer, isso é cardápio?",cardapio,humano
+Por que não tem lasanha no cardápio?,cardapio,humano
+O ru funciona no sábado ?,horarios,humano
+Posso tomar café da manhã 4h da manha?,horarios,humano
+Se eu for la domingo tem almoço?,horarios,humano
+Porque 15 reais o preço?,valores,humano
+Pera é 15 e quantos centavos?,valores,humano
+"Eu pago 3 de todo jeito ne? tenho cadunico",valores,humano
+Tem q comprar ficha no ru?,fichas,humano
+Aonde comprar as fichas do ru?,fichas,humano
+Q horas pode começar a comprar?,fichas,humano
+Como faz pra pagar mais barato no ru?,subsidio,humano
+"Eu não tenho cad unico, posso fingir q tenho?",subsidio,humano
+Como q eles vao saber q eu uso o vale pobre?,subsidio,humano
+Como faz pra usar o businho?,fora_dominio,humano
+Como chega no inqui?,fora_dominio,humano
+Oi,chitchat,humano
+Oii,chitchat,humano
+Eai,chitchat,humano
+Obrigada,chitchat,humano
+Boa,chitchat,humano
+"Ajudou, obrigada",chitchat,humano
+Oq tem hoje?,cardapio,humano
+Hj é porco?,cardapio,humano
+O que é hoje?,cardapio,humano
+Que horas o ru fecha?,horarios,humano
+Ja tá aberto?,horarios,humano
+O ru abre em feriados?,horarios,humano
+É 3 reais né?,valores,humano
+Quanto que é?,valores,humano
+Qual o valor da ficha?,valores,humano
+Tem como comprar online?,fichas,humano
+Tem que ter cadastro pra comprar?,fichas,humano
+Todo mundo tem que escanear o qr?,fichas,humano
+Como faço pra pagar 3 reais?,subsidio,humano
+Como eu sei se ja fui aprovado?,subsidio,humano
+Onde eu mando a folha resumo?,subsidio,humano
+Hoje tem aula?,fora_dominio,humano
+Que horas passa o businho?,fora_dominio,humano
+"Chat, que horas abre o ru?",horarios,humano
+Oi,chitchat,humano
+Tchau,chitchat,humano
+Muito obrigado!,chitchat,humano
+Tabom,chitchat,humano
+"Ataaaa, valeuu",chitchat,humano
+Cardapio ru jantar outubro,cardapio,humano
+Qual cardapio de hoje jantar ru?,cardapio,humano
+oq tem hoje para comer no ru?,cardapio,humano
+o ru está aberto hoje?,horarios,humano
+horario ru ufms,horarios,humano
+o ru abre em feriados?,horarios,humano
+qual valor do cafe da manha no ru ufms?,valores,humano
+qual valor de subsídio do ru?,valores,humano
+o ru da ufms custa 14 reais?!,valores,humano
+onde comprar fichas do ru?,fichas,humano
+é possivel pagar as refeições do ru com antecedencia?,fichas,humano
+reservar refeições no ru,fichas,humano
+como ter subsidio na refeição do ru?,subsidio,humano
+Quem tem cadunico paga mais barato no ru?,subsidio,humano
+como cadastrar subsidio?,subsidio,humano
+o portão da ufms fecha qual horas?,fora_dominio,humano
+A universidade abre aos domingos?,fora_dominio,humano
+Bom dia,chitchat,humano
+Opa,chitchat,humano
+Como vai?,chitchat,humano
+muito obrigada,chitchat,humano
+"Valeu, me ajudou",chitchat,humano
+mt obrigada,chitchat,humano
+Porque eu achei um rato na comida?,cardapio,humano
+Posso comer salada duas vezes seguidas?,cardapio,humano
+O que aconteceu com a carne?,cardapio,humano
+Que horas fecha?,horarios,humano
+Abre no fim de semana?,horarios,humano
+Posso entrar lá fora de horário,horarios,humano
+Porque é caro a salada se é ruim?,valores,humano
+Posso pegar fiado?,valores,humano
+Aceita cartão?,fichas,humano
+Como consigo o papelzinhono pra comer?,fichas,humano
+"Perdi a ficha, e agora?",fichas,humano
+Quantos anos de prisão se eu perder a ficha?,fichas,humano
+Como faço o cadastro?,subsidio,humano
+Porque tenho que fazer I cadastro?,subsidio,humano
+Posso comer sem o cadastro?,subsidio,humano
+A cantina serva largatixa refogada?,fora_dominio,humano
+Como sei os horários do businho?,fora_dominio,humano
+Posso fazer xixi de porta aberta?,fora_dominio,humano
+Fala meu chapa,chitchat,humano
+Knitichiwa,chitchat,humano
+O que tá pegando?,chitchat,humano
+Ogozaimasu,chitchat,humano
+Obrigada,chitchat,humano
+Thanks,chitchat,humano
+e ai meu mano chatbot!!!! o que tem de baum hj pra papar :DD,cardapio,humano
+tem opcao vegana pros vegetarianos da UF que gostam de abracar arvore?,cardapio,humano
+que pratos que tem uma carninha fortissima pra ajudar os bodybuilders que precisam de proteina,cardapio,humano
+se eu vir pra UF depois da missa no domingo ainad da pra comer um paozinho de cafe da manha?,horarios,humano
+eu moro pertinho da facul posso vir aqui comer um lanchinho da meia noite ? um leite com biscoito,horarios,humano
+"o RU esta aberto quando eu saio da aula das 11:30 ??",horarios,humano
+os precinhos do RU sao salgados? ou da pra bancar com a minha bolsa de IC ????,valores,humano
+quanto q custaa normalmente um rango ai?,valores,humano
+com 30 reais no banco eu consigo comprar algo pra comer??,valores,humano
+como fucniona pra comer no RU? tem que comprar alguma coisa antes?,fichas,humano
+como funciona pra comer la no RU?,fichas,humano
+eu posso comprar as fichinhas por PIX?,fichas,humano
+como que funciona pra fazer o cadastro pra ter desconto no RU?,subsidio,humano
+o que é o subsidio do RU??,subsidio,humano
+como conseguir pagar menos nas refeicoes na facul,subsidio,humano
+o LIA vai fazer uma festinha de fim de ano pra nois??,fora_dominio,humano
+"o passe de estudante já vem recarregado quando voce recebe ele",fora_dominio,humano
+eu consiog usar o passe do estudante pra vir pra facul no sabado ??,fora_dominio,humano
+fala ai meu mano chatbot!,chitchat,humano
+olaaaaaaaaaaaaaaaa,chitchat,humano
+oi bro blz??,chitchat,humano
+tamo junto!!,chitchat,humano
+vlww ai brother,chitchat,humano
+"esse cara nao é um chatbot, ele é um prefeito",chitchat,humano
+Qual foi o cardápio do almoço dessa última segunda-feira?,cardapio,humano
+Onde encontro o cardápio?,cardapio,humano
+Quando o cardápio da semana seguinte fica disponível?,cardapio,humano
+Qual horário o RU abre para o café da manhã?,horarios,humano
+Qual horário o RU fecha no café da manhã?,horarios,humano
+Qual o horário da janta?,horarios,humano
+Qual o valor para estudantes que tem cadunico?,valores,humano
+Qual o valor integral?,valores,humano
+"Além do cadastro único, tem desconto para outros estudantes ou funcionários?",subsidio,humano
+Precisa colocar o cartão de crédito para comprar ficha ou aceita pix?,fichas,humano
+Posso comprar mais de uma ficha?,fichas,humano
+Tem prazo para utilizar o ingresso do ru?,fichas,humano
+Por quanto tempo eu ganho desconto no ru se tiver cadastro único?,subsidio,humano
+O que precisa ter para pagar mais barato no restaurante?,subsidio,humano
+"Se eu for baixa renda mas não tiver Cadastro Único que comprove, eu consigo pagar mais barato?",subsidio,humano
+Como eu entro em contato com minha coordenação do curso?,fora_dominio,humano
+Como eu anexo meus certificados no siscad?,fora_dominio,humano
+Oi chat,chitchat,humano
+Oii,chitchat,humano
+E aí chat,chitchat,humano
+tmj chat,chitchat,humano
+"ta bom, brigada",chitchat,humano
+"não sei se entendi, mas valeu",chitchat,humano
+o cardápio tem informações nutricionais?,cardapio,humano
+é verdade que larvas e insetos fazem parte da proteína?,cardapio,humano
+quantas opções de pratos são disponíveis por dia?,cardapio,humano
+tem opções a la carte?,cardapio,humano
+lá vende opções de bebida?,cardapio,humano
+o ru funciona 24h?,horarios,humano
+o ru funciona aos domingos?,horarios,humano
+o ru fica aberto até que horas?,horarios,humano
+quanto custa almoçar no ru?,valores,humano
+quanto é o cafe na manhã no ru?,valores,humano
+é verdade que a janta é mais cara que o almoço?,valores,humano
+como funciona o passe do ru?,fichas,humano
+eu consigo comprar ficha online?,fichas,humano
+a ficha tem desconto para grupos de pessoas?,fichas,humano
+no ru a comida é grátis pra quem é pobre?,subsidio,humano
+quanto custa almoçar todos os dias no ru pra quem paga menos?,subsidio,humano
+"eu tenho cadÚnico, quanto eu pago no café da manhã?",valores,humano
+o lago do amor faz parte da universidade?,fora_dominio,humano
+quantos departamentos tem na uf?,fora_dominio,humano
+tem parque aquático na ufms?,fora_dominio,humano
+oi rui!,chitchat,humano
+olá Rui,chitchat,humano
+oi rui seu lindo!,chitchat,humano
+"entendi, obrigada rui!",chitchat,humano
+valeu,chitchat,humano
+tmj rui,chitchat,humano
+qual a comida hoje?,cardapio,humano
+qual a comida amanhã?,cardapio,humano
+qual foi a comida ontem?,cardapio,humano
+que horas o DU fecha?,horarios,humano
+quanto tempo o RU fica aberto?,horarios,humano
+que dia não pode ir no RU?,horarios,humano
+quanto tá custando?,valores,humano
+quanto tá?,valores,humano
+valor fala!,valores,humano
+aceita vale?,fichas,humano
+como que paga?,fichas,humano
+forma de pagamentos,fichas,humano
+cad único cadastro para RU,subsidio,humano
+como pagar menos no RU?,subsidio,humano
+pagar mais barato,subsidio,humano
+onde é a secretaria?,fora_dominio,humano
+diretoria de ensino local,fora_dominio,humano
+fala agora onde é o banheiro unissex,fora_dominio,humano
+hello!,chitchat,humano
+oiiii,chitchat,humano
+e aí,chitchat,humano
+valeu,chitchat,humano
+tnx,chitchat,humano
+obrigado,chitchat,humano
+Qual a comida de hoje?,cardapio,humano
+O cardápio tem a comida fixa diária?,cardapio,humano
+Tem suco hoje?,cardapio,humano
+Que horas o RU abre?,horarios,humano
+O RU funciona sábado?,horarios,humano
+O RU estava aberto agora?,horarios,humano
+Quanto custa o almoço do RU?,valores,humano
+Tem alguma forma de conseguir desconto?,subsidio,humano
+Quais as opções de preço do RU?,valores,humano
+Eu consigo comprar a ficha no débito?,fichas,humano
+Consigo comprar a ficha no Pix?,fichas,humano
+Consigo comprar a ficha no dinheiro?,fichas,humano
+Como funciona o subsídio?,subsidio,humano
+Eu tenho acesso a esse subsídio?,subsidio,humano
+Como faço meu cadastro?,subsidio,humano
+Como funciona para pegar os materiais esportivos da academia UFMS?,fora_dominio,humano
+Onde fica o bloco da FACOM?,fora_dominio,humano
+Quais os principais eventos ocorrendo hoje?,fora_dominio,humano
+Salve salve cachorro,chitchat,humano
+Só na paz meu consagrado,chitchat,humano
+Como anda meu quebrada,chitchat,humano
+"Que isso pai, salvou dms",chitchat,humano
+"Se é Loko paraça, ajudou mt",chitchat,humano
+Valeu demais meu lindo,chitchat,humano
+Qual proteína tem hoje?,cardapio,humano
+O que tem hoje?,cardapio,humano
+Tem sobremesa?,cardapio,humano
+Quais os horários de funcionamento?,horarios,humano
+Amanhã vai funcionar?,horarios,humano
+Funciona nos finais de semana?,horarios,humano
+Qual o valor do RU?,valores,humano
+Qual o menor valor do rua?,valores,humano
+Quanto o visitante.paga?,valores,humano
+Como pego a ficha?,fichas,humano
+Onde pego a ficha?,fichas,humano
+Onde coloco a ficha?,fichas,humano
+Como faço o subsídio?,subsidio,humano
+Quem tem direito?,subsidio,humano
+Onde faço?,subsidio,humano
+Tem acessibilidade?,fora_dominio,humano
+Onde tem mesas livres?,fora_dominio,humano
+Oi.,chitchat,humano
+Tudo bem?,chitchat,humano
+Bom dia,chitchat,humano
+Valeu.,chitchat,humano
+Ok.,chitchat,humano
+Brigada,chitchat,humano
