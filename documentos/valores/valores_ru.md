@@ -24,4 +24,5 @@ Os valores de R\$1,00 e R\$3,00 foram definidos pela INSTRUÇÃO NORMATIVA Nº 4
 # **Sobre os Valores Integrais Cobrados Pela Empresa Licitada**
 
 O preparo das refeições não é feito diretamente pela instituição da UFMS. Na realidade, esse serviço é contratado e terceirizado a partir de uma licitação \- processo administrativo formal utilizado na Administração Pública para comprar produtos, contratar serviços, realizar obras ou vender bens.  
-Sendo assim, o valor integral das refeições depende do valor estabelecido por contrato entre a UFMS e a empresa que foi selecionada durante o processo licitatório vigente. Para saber o preço integral atual, consulte o site oficial do Restaurante Universitário da UFMS, seção “Refeições”: [https\://reggio.ufms.br/restaurante](https://reggio.ufms.br/restaurante). 
+Sendo assim, o valor integral das refeições depende do valor estabelecido por contrato entre a UFMS e a empresa que foi selecionada durante o processo licitatório vigente. Para saber o preço integral atual, consulte o site oficial do Restaurante Universitário da UFMS, seção “Refeições”: [https\://reggio.ufms.br/restaurante](https://reggio.ufms.br/restaurante).
+ 

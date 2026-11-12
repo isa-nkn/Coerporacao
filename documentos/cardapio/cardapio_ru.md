@@ -122,3 +122,4 @@ Desta forma, as pessoas que se encaixam nestas situações devem perguntar ao nu
   - Mais prazer com a alimentação e   
   - Melhor controle da quantidade de alimentos ingeridos.  
   - Maior qualidade de vida e redução dos riscos de doenças crônicas degenerativas como hipertensão, diabetes tipo II e doenças cardiovasculares. 
+  
