@@ -19,7 +19,7 @@ Além disso, os valores variam de acordo com a refeição em questão.
 
 # **Importante\!**
 
-Os valores de R\$1,00 e R\$3,00 foram definidos pela INSTRUÇÃO NORMATIVA Nº 49-PROAES/UFMS, DE 4 DE AGOSTO DE 2025\. ([https://boletimoficial.ufms.br/publicacao?id=567544](https://boletimoficial.ufms.br/publicacao?id=567544)). Isso significa que esses preços não são imutáveis, estando propensos a alterações no futuro, em caso de nova Instrução Normativa que sobrescreva a atualmente vigente.
+Os valores de R\$1,00 e R\$3,00 foram definidos pela INSTRUÇÃO NORMATIVA Nº 49-PROAES/UFMS, DE 4 DE AGOSTO DE 2025\([https://boletimoficial.ufms.br/publicacao?id=567544](https://boletimoficial.ufms.br/publicacao?id=567544)). Isso significa que esses preços não são imutáveis, estando propensos a alterações no futuro, em caso de nova Instrução Normativa que sobrescreva a atualmente vigente.
 
 # **Sobre os Valores Integrais Cobrados Pela Empresa Licitada**
 
