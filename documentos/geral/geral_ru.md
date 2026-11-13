@@ -8,13 +8,11 @@ Os RUs seguem o Guia Alimentar para a população brasileira, considerando o dir
 
 # **Informações Gerais do RU**
 
-## **Endereço**
-
+**Endereço**  
 Restaurante Universitário – Cidade Universitária  
 Av. Costa e Silva S/N, Bairro Pioneiros, Campo Grande/MS.
 
-## **Contatos Oficiais**
-
+**Contatos Oficiais**  
 **Secretaria de Integração e Apoio Estudantil (Seint/Proaes):** (67) 3345-7698 – seint.proaes@ufms.br;  
 **Restaurante Universitário:** ru.proaes@ufms.br; e  
 **Formulário Reclamações e Sugestões:** [https\://proaes.ufms.br/sugestoes-e-reclamacoes-ru/](https://proaes.ufms.br/sugestoes-e-reclamacoes-ru/)

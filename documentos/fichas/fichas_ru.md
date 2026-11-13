@@ -1,6 +1,6 @@
 # **Fichas**
 
-# **Funcionamento do RU**
+# **Funcionamento das fichas do RU**
 
 Para que você consuma alguma refeição no RU, é necessário realizar a compra de uma ficha. Essa ficha pode ser adquirida presencialmente, na entrada do RU. Dependendo da empresa licitada e do contrato vigente, pode ser que haja a opção de compra online; entretanto, essa possibilidade nem sempre é uma certeza. Para confirmar, a melhor forma é perguntar para os responsáveis pelo RU, conforme os contatos oficiais. 
 
@@ -12,9 +12,9 @@ Ao chegar no RU, você irá se deparar com um caixa. Lá, basta pedir a quantida
 
 # **Métodos de Pagamento Aceitos**
 
-Presencialmente, são aceitos cartão de crédito ou débito, dinheiro e PIX. Caso opte por comprar online, os métodos de pagamentos aceitos dependem da empresa licitada e da existência dessa opção como um todo, conforme explicitado anteriormente no documento.
+Presencialmente, são aceitos cartão de crédito ou débito, dinheiro e PIX. Caso opte por comprar online, os métodos de pagamentos aceitos dependem da empresa licitada e da existência dessa opção como um todo.
 
-# **Após a Adquirir Sua Ficha**
+# **Após Adquirir Sua Ficha**
 
 Depois que você realizar o pagamento e adquirir sua ficha, basta seguir a fila para servir as refeições. 
 

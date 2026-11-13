@@ -26,8 +26,7 @@ Para o Café da Manhã, o cardápio oferecido é composto por:
 
 Para o almoço e o jantar, são elaborados cardápios distintos, onde os ingredientes principais contemplados não podem ser repetidos em diferentes preparações do mesmo cardápio ou em cardápios subsequentes ou em dias que o antecedem ou sucedem. O cardápio oferecido é composto por: saladas variadas, prato base, prato principal, guarnição, sobremesa e complementos padrão, todos com opção vegetariana, conforme ilustrado a seguir. 
 
-## **Salada: 3 tipos**
-
+**Salada: 3 tipos**  
 **Tipo 1**  
 Um tipo de alface (americana, bailarina, crespa, lisa, roxa) \+ um vegetal verde escuro (agrião, couve, espinafre, repolho roxo, rúcula). 
 
@@ -39,15 +38,13 @@ Legumes crus (cenoura, beterraba, rabanete) ou cozidos/assados (abobrinha, batat
 
 **Servidos à vontade**
 
-## **Prato Base**
-
+**Prato Base**  
 **Arroz** \- branco, arroz integral, arroz com cenoura, arroz boliviano, de forno, outros.   
 **Feijão** – preto, branco, fradinho, mulatinho, outros. 
 
 **Servidos à vontade** 
 
-## **Prato Principal**
-
+**Prato Principal**  
 **Prato padrão**  
 Preparações à base de proteínas de origem animal como carnes bovinas, suínas, aves, peixes e embutidos (uso somente como ingrediente que compõe uma preparação). \*Proibido uso exclusivo de ovos, queijos e embutidos como fonte proteica. 
 
@@ -62,28 +59,24 @@ Preparações à base de soja, leguminosas como feijões, lentilhas, ervilhas e 
 
 **Servido uma vez, pelo colaborador da empresa**
 
-## **Guarnições**
-
+**Guarnições**  
 Preparações à base de legumes refogados e/ou cozidos, assados, saltados, em farofas, purês, tortas, croquetes, suflês, lasanhas, massas e outros.
 
 **Porção:** a gramatura da porção vai depender da adequação na distribuição dos ingredientes envolvidos, respeitando as reações físico químicas oriundas das técnicas culinárias empregadas no processamento dos alimentos, seus caracteres organolépticos e o rendimento da receita/preparação. 
 
 **Servidas uma vez, pelo colaborador da empresa**
 
-## **Sobremesa**
-
+**Sobremesa**  
 É oferecido como sobremesa nas refeições principais frutas da época fracionadas, fatiadas ou em porção unitária. À exceção em datas comemorativas, pode ser contemplada a opção de sobremesa elaborada como por exemplo: pavê, mousse, pudim, outros. 
 
 **Servida uma vez, uma porção com 150g por pessoa** 
 
-## **Complementos**
-
+**Complementos**  
 São considerados todos os insumos de uso/consumo individual, necessários ao comensal durante a refeição, como molho artesanal para temperar saladas, azeite de oliva, vinagre e sal para temperar saladas, palito de dentes de madeira (embalados individualmente), guardanapo de papel não reciclado, talheres (garfo, faca e colher conforme a necessidade). 
 
 **Servidos uma vez à vontade**
 
-## **Informações adicionais**
-
+**Informações adicionais**  
 No corpo do cardápio publicado é obrigatório o registro das gramaturas de cada porção que o compõe. A empresa deve disponibilizar balanças em número suficiente que permitam a pesagem e controle por parte do comensal das quantidades servidas.   
 As porções relativas às gramaturas definidas são exibidas em display exemplificando o tamanho das porções à serem contempladas durante a distribuição pelo próprio comensal ou por colaborador da empresa. 
 
@@ -99,7 +92,7 @@ No âmbito do planejamento e da oferta de refeições em Restaurantes Universit�
 
 Os Restaurantes Universitários possuem cardápio específico para atender aos membros da comunidade acadêmica que adotam como filosofia de vida o vegetarianismo, proporcionando uma dieta nutritiva e de qualidade. 
 
-# **Fique atento\!**
+# **Fique atento \- Alergias e Restrições Alimentares em Decorrência de Doenças\!**
 
 Os Restaurantes Universitários não possuem cardápio específico para pessoas com alergia, intolerância alimentar, ou restrição a algum alimento em decorrência de alguma patologia.   
 Desta forma, as pessoas que se encaixam nestas situações devem perguntar ao nutricionista responsável pelo Restaurante se há nas preparações a presença de ingredientes alergênicos como: 
@@ -122,4 +115,3 @@ Desta forma, as pessoas que se encaixam nestas situações devem perguntar ao nu
   - Mais prazer com a alimentação e   
   - Melhor controle da quantidade de alimentos ingeridos.  
   - Maior qualidade de vida e redução dos riscos de doenças crônicas degenerativas como hipertensão, diabetes tipo II e doenças cardiovasculares. 
-  

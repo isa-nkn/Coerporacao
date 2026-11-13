@@ -11,21 +11,21 @@ Os preços subsidiados são destinados aos estudantes em vulnerabilidade econôm
 
 **IMPORTANTE\!** O Cadúnico tem validade de 2 anos após a emissão. Se a validade expirou, é necessário procurar um CRAS para fazer a atualização. Além disso, sempre que houver mudanças (como alteração de endereço, nascimento ou morte de algum membro da família, mudança de renda ou troca de escola das crianças da família), é fundamental ir ao posto de atendimento do CadÚnico mais próximo para atualizar as informações. Lembre-se de atualizar o documento também nos sistemas acadêmicos da UFMS.
 
-Para utilizar o Restaurante Universitário com subsídio é necessário:
+**Para utilizar o Restaurante Universitário com subsídio é necessário:**
 
 1. Estar regularmente matriculado nos cursos de graduação e/ou mestrado, doutorado e residência da UFMS;  
 2. Preencher o ‘Perfil do Estudante’ por meio do Sistema Acadêmico ([siscad.ufms.br](http://siscad.ufms.br)), anexando a Folha Resumo ou o comprovante cadastral com autenticação digital do Cadastro único com renda per capita de até um salário mínimo e meio vigente;  
 3. Possui a Identidade Estudantil da UFMS ([proaes.ufms.br/identidade](http://proaes.ufms.br/identidade)); e  
 4. Ter instalado o aplicativo ‘Sou UFMS’. O aplicativo pode ser baixado na Google Play Store, para dispositivos Android, e na Apple App Store, para iPhones e iPads com sistema iOS.
 
-# **Fique Ligado\!**
+# **Fique Ligado \- Normas Legais\!**
 
 Pela INSTRUÇÃO NORMATIVA Nº 49-PROAES/UFMS, DE 4 DE AGOSTO DE 2025 ([https\://boletimoficial.ufms.br/publicacao?id=567544](https://boletimoficial.ufms.br/publicacao?id=567544)):
 
 - O subsídio será pago a estudantes de graduação, de pós-graduação stricto sensu (mestrado/doutorado) e de residência em situação de vulnerabilidade socioeconômica, de acordo com renda bruta per capita familiar, que considera a renda de todas as pessoas do núcleo familiar constante na Folha Resumo ou no comprovante cadastral com autenticação digital \- QR Code do Cadastro Único.   
 - O estudante que omitir informações ou prestar informações inverídicas estará sujeito à perda do subsídio e ao ressarcimento integral dos valores recebidos indevidamente à conta única da União, sem prejuízo da eventual apuração de falta disciplinar e civil. 
 
-# **Informações Relevantes**
+# **Informações Relevantes:**
 
 **O que é o CadÚnico?**  
 Um banco de dados do Governo Federal que identifica e caracteriza as famílias de baixa renda no Brasil. É uma porta de entrada para diversas políticas públicas, programas sociais e isenções tarifárias nos âmbitos federal, estadual e municipal.  
