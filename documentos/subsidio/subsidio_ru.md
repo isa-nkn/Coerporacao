@@ -25,7 +25,7 @@ Pela INSTRUÇÃO NORMATIVA Nº 49-PROAES/UFMS, DE 4 DE AGOSTO DE 2025 ([https\:/
 - O subsídio será pago a estudantes de graduação, de pós-graduação stricto sensu (mestrado/doutorado) e de residência em situação de vulnerabilidade socioeconômica, de acordo com renda bruta per capita familiar, que considera a renda de todas as pessoas do núcleo familiar constante na Folha Resumo ou no comprovante cadastral com autenticação digital \- QR Code do Cadastro Único.   
 - O estudante que omitir informações ou prestar informações inverídicas estará sujeito à perda do subsídio e ao ressarcimento integral dos valores recebidos indevidamente à conta única da União, sem prejuízo da eventual apuração de falta disciplinar e civil. 
 
-# **Informações Relevantes:**
+# **Informações Relevantes**
 
 **O que é o CadÚnico?**  
 Um banco de dados do Governo Federal que identifica e caracteriza as famílias de baixa renda no Brasil. É uma porta de entrada para diversas políticas públicas, programas sociais e isenções tarifárias nos âmbitos federal, estadual e municipal.  
