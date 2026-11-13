@@ -40,5 +40,5 @@ Podem se inscrever as famílias que se enquadram nos seguintes critérios:
 **Mas atenção\!** Somente estudantes que possuem renda familiar per capita de até **1,5 salários mínimos vigentes** têm direito ao subsídio do RU da UFMS.  
 Para mais informações, acesse: [https\://www\.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico](https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico).
 
-Observação
+**Observação**
 O subsídio é um auxílio para baratear o custo das refeições no RU. É importante ressaltar que o barateamento não promove a isenção das refeições. Logo, mesmo que de forma reduzida, o beneficiário paga pela sua alimentação conforme valores definidos. 
