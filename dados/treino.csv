@@ -59,7 +59,6 @@ Você poderia confirmar se o restaurante universitário abre nos feriados?,horar
 "Por gentileza, qual é o horário de abertura do RU no período da manhã?",horarios,llm
 Gostaria de saber se o RU fecha entre o serviço de almoço e o de jantar.,horarios,llm
 "Em semanas de provas, o horário de funcionamento do restaurante universitário sofre alguma alteração?",horarios,llm
-Que horas o RU abre?,horarios,llm
 Até que horas fica aberto o RU?,horarios,llm
 Qual é o horário de funcionamento do RU?,horarios,llm
 O RU abre aos sábados?,horarios,llm
@@ -89,7 +88,6 @@ Meu intervalo é curto e preciso me planejar. Qual é o horário de funcionament
 O RU fecha para alguma pausa durante o dia ou fica aberto direto? Estou tentando calcular se dá tempo de ir entre as aulas.,horarios,llm
 "Estou chegando ao campus agora, mas não sei se ainda dá tempo de encontrar o RU aberto. Que horas ele fecha?",horarios,llm
 "Na semana de provas, os horários do RU mudam? Preciso saber se ele abre mais cedo ou fecha mais tarde.",horarios,llm
-Que horas abre o RU?,horarios,llm
 Qual horário de funcionamento?,horarios,llm
 Até que horas funciona?,horarios,llm
 O RU fecha quando?,horarios,llm
@@ -112,7 +110,6 @@ Quanto custa o almoço no RU pra estudante?,valores,llm
 Qual o preço da refeição pra quem não tem subsídio?,valores,llm
 "E pra aluno com subsídio, quanto fica?",valores,llm
 "Me passa os valores do RU por categoria, por favor",valores,llm
-O preço do jantar é o mesmo pra todas as categorias?,valores,llm
 Quanto paga um servidor pra comer no RU?,valores,llm
 Tem diferença no valor da refeição pra aluno e visitante?,valores,llm
 "Queria saber quanto custa cada refeição, com e sem subsídio",valores,llm
@@ -237,7 +234,6 @@ Minha família passou por uma mudança financeira recente. Posso atualizar meus 
 Tenho receio de preencher o pedido errado e perder o prazo. Existe algum setor que orienta sobre a documentação e o processo?,subsidio,llm
 "Enviei meu pedido de subsídio, mas não sei como acompanhar a análise. Onde consulto o resultado e quando devo receber uma resposta?",subsidio,llm
 Como solicitar subsídio?,subsidio,llm
-Quem tem direito?,subsidio,llm
 Documentos necessários?,subsidio,llm
 Prazo para inscrição?,subsidio,llm
 Onde faço o pedido?,subsidio,llm
@@ -246,7 +242,7 @@ Como renovar o benefício?,subsidio,llm
 Inscrição aberta?,subsidio,llm
 Quais comprovantes enviar?,subsidio,llm
 Critérios para receber?,subsidio,llm
-Qual o cardápio de hoje?,cardapio,humano
+Qual o cardápio de hoje no restaurante?,cardapio,humano
 o que tem para comer no RU hoje?,cardapio,humano
 Amanhã vai ter peixe?!!,cardapio,humano
 "Eu não gosyo de carne de porco, tem opção sem?",cardapio,humano
@@ -555,7 +551,7 @@ quanto é a janta pra quem paga menos?,valores,humano
 obrigada rui,chitchat,humano
 oii rui,chitchat,humano
 rui preciso tirar uma dúvida,chitchat,humano
-tchau,chitchat,humano
+tchau rui,chitchat,humano
 até a próxima rui,chitchat,humano
 "muito obrigada, me ajudou muito",chitchat,humano
 oi rui vc me ajuda numa coisa?,chitchat,humano
@@ -582,4 +578,5 @@ como que sobrevive à semana de provas? 😂🤣,fora_dominio,humano
 "Rui, o que vc acha de eu trancar meu curso",fora_dominio,humano
 como que faz pra fazer permuta interna na ufms?,fora_dominio,humano
 amoooo,chitchat,humano
-"Juro, que lacre rui mds!!! Ar-ra-sou",chitchat,humano
+"Juro, que lacre rui mds!!! Ar-ra-sou!",chitchat,humano
+Quem tem direito de pedir subsídio?,subsidio,humano

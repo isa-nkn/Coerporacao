@@ -4,13 +4,13 @@
 O RU possui duas categorias de valores: preços subsidiados e preços integrais. Os preços subsidiados são destinados aos estudantes em vulnerabilidade econômica (possuem CadÚnico e renda familiar per capita de até 1,5 salário mínimo vigente - baixa renda).  
 Além disso, os valores variam de acordo com a refeição em questão.
 
-# **Café da Manhã**
+**Café da Manhã**
 
 - Estudantes de graduação, de pós-graduação stricto sensu ou de residência **vulneráveis socioeconomicamente** pagam R\$1,00 (um real).  
 - Estudantes de graduação, de pós-graduação stricto sensu ou de residência **não vulneráveis** pagam o valor integral cobrado pela empresa licitada.  
 - Servidores, colaboradores e comunidade externa à UFMS, **independente de renda**, pagam o valor integral cobrado pela empresa licitada.
 
-# **Almoço e Jantar**
+**Almoço e Jantar**
 
 - Estudantes de graduação, de pós-graduação stricto sensu ou de residência **vulneráveis socioeconomicamente** pagam R\$3,00 (três reais);  
 - Estudantes de graduação, de pós-graduação stricto sensu ou de residência **não vulneráveis** pagam o valor integral cobrado pela empresa licitada.  

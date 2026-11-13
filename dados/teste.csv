@@ -16,8 +16,6 @@ Como faz pra pagar mais barato no ru?,subsidio,humano
 Como q eles vao saber q eu uso o vale pobre?,subsidio,humano
 Como faz pra usar o businho?,fora_dominio,humano
 Como chega no inqui?,fora_dominio,humano
-Oi,chitchat,humano
-Oii,chitchat,humano
 Eai,chitchat,humano
 Obrigada,chitchat,humano
 Boa,chitchat,humano
@@ -27,7 +25,6 @@ Hj é porco?,cardapio,humano
 O que é hoje?,cardapio,humano
 Que horas o ru fecha?,horarios,humano
 Ja tá aberto?,horarios,humano
-O ru abre em feriados?,horarios,humano
 É 3 reais né?,valores,humano
 Quanto que é?,valores,humano
 Qual o valor da ficha?,valores,humano
@@ -62,7 +59,6 @@ Quem tem cadunico paga mais barato no ru?,subsidio,humano
 como cadastrar subsidio?,subsidio,humano
 o portão da ufms fecha qual horas?,fora_dominio,humano
 A universidade abre aos domingos?,fora_dominio,humano
-Bom dia,chitchat,humano
 Opa,chitchat,humano
 Como vai?,chitchat,humano
 muito obrigada,chitchat,humano
@@ -90,7 +86,6 @@ Fala meu chapa,chitchat,humano
 Knitichiwa,chitchat,humano
 O que tá pegando?,chitchat,humano
 Ogozaimasu,chitchat,humano
-Obrigada,chitchat,humano
 Thanks,chitchat,humano
 e ai meu mano chatbot!!!! o que tem de baum hj pra papar :DD,cardapio,humano
 tem opcao vegana pros vegetarianos da UF que gostam de abracar arvore?,cardapio,humano
@@ -139,6 +134,7 @@ E aí chat,chitchat,humano
 tmj chat,chitchat,humano
 "ta bom, brigada",chitchat,humano
 "não sei se entendi, mas valeu",chitchat,humano
+tem  ajuda financeira pra quem faz IC?,fora_dominio,humano
 o cardápio tem informações nutricionais?,cardapio,humano
 é verdade que larvas e insetos fazem parte da proteína?,cardapio,humano
 quantas opções de pratos são disponíveis por dia?,cardapio,humano
@@ -163,7 +159,6 @@ oi rui!,chitchat,humano
 olá Rui,chitchat,humano
 oi rui seu lindo!,chitchat,humano
 "entendi, obrigada rui!",chitchat,humano
-valeu,chitchat,humano
 tmj rui,chitchat,humano
 qual a comida hoje?,cardapio,humano
 qual a comida amanhã?,cardapio,humano
@@ -230,11 +225,7 @@ Quem tem direito?,subsidio,humano
 Onde faço?,subsidio,humano
 Tem acessibilidade?,fora_dominio,humano
 Onde tem mesas livres?,fora_dominio,humano
-Oi.,chitchat,humano
 Tudo bem?,chitchat,humano
-Bom dia,chitchat,humano
-Valeu.,chitchat,humano
-Ok.,chitchat,humano
 Brigada,chitchat,humano
 quais as opções?,cardapio,humano
 quantas vezes posso repetir?,cardapio,humano
@@ -258,8 +249,6 @@ o businho está funcionando hoje?,fora_dominio,humano
 hoje é feriado?,fora_dominio,humano
 até quando a faculdade fica aberta?,fora_dominio,humano
 alo,chitchat,humano
-boa tarde,chitchat,humano
-oi,chitchat,humano
 ok,chitchat,humano
 certo,chitchat,humano
 okay,chitchat,humano
@@ -282,7 +271,6 @@ Como chegar ao RU?,fora_dominio,humano
 Passa ônibus na frente do restaurante da faculdade?,fora_dominio,humano
 Que horas acendem as luzes do Campus?,fora_dominio,humano
 Amanhã tem aula?,fora_dominio,humano
-Oii,chitchat,humano
 "Oi, tudo bem?",chitchat,humano
 Boa tarde!,chitchat,humano
 "Ok, só isso mesmo",chitchat,humano
@@ -292,7 +280,6 @@ O que tem hoje para o almoço?,cardapio,humano
 Hoje o cardápio é peixe?,cardapio,humano
 No café da manhã do ru teve ovos mexidos?,cardapio,humano
 Que horas fecha o ru?,horarios,humano
-Que horas abre o ru?,horarios,humano
 Que horas servem o jantar?,horarios,humano
 Você paga com cad único?,subsidio,humano
 Quanto é o valor do ru?,valores,humano
@@ -307,8 +294,6 @@ Onde recarrego meu passe?,fora_dominio,humano
 Onde fica o corredor central?,fora_dominio,humano
 Qual é o bloco de medicina?,fora_dominio,humano
 Como chego no inqui?,fora_dominio,humano
-Eai,chitchat,humano
-oii,chitchat,humano
 bom dia,chitchat,humano
 Vlw,chitchat,humano
 obg,chitchat,humano
