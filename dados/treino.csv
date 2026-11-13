@@ -503,3 +503,83 @@ Porque tem carne de porco entre as opções de comida do RU?,cardapio,humano
 Quanto é o cone do moço do RU?,fora_dominio,humano
 Qual o nome do menino que interrompe as pessoas para vender brownie?,fora_dominio,humano
 Tem limite de colheres de arroz que eu posso pegar?*****************,cardapio,humano
+o cardápio tem informação nutricional?,cardapio,humano
+o cardápio muda todo dia?,cardapio,humano
+o cardápio muda na janta?,cardapio,humano
+o cardápio do café da manhã é igual do almoço?,cardapio,humano
+o que faz parte do cardápio?,cardapio,humano
+o cardápio tem opção pra quem é celíaco?,cardapio,humano
+o cardápio tem opção vegana?,cardapio,humano
+o cardápio tem fruta?,cardapio,humano
+o cardápio sempre contém arroz?,cardapio,humano
+o cardápio contém sobremesa?,cardapio,humano
+o ru abre que horas?,horarios,humano
+o ru fecha às 19h?,horarios,humano
+o ru fecha nos sábados?,horarios,humano
+o ru abre nos domingos?,horarios,humano
+o ru funciona nos feriados?,horarios,humano
+o ru é 24h?,horarios,humano
+o ru abre sempre no mesmo horário todos os dias?,horarios,humano
+o ru fecha quanto tempo antes do horário previsto?,horarios,humano
+o ru abre antes pra servidores?,horarios,humano
+o ru funciona o dia inteiro?,horarios,humano
+o ru é mais caro pra quem é rico?,valores,humano
+quanto custa o prato de almoço?,valores,humano
+quanto é o café?,valores,humano
+o preço varia conforme os dias?,valores,humano
+o preço aumenta aos domingos?,valores,humano
+pobre paga menos?,valores,humano
+quanto é o café da manhã pra quem tem subsídio?,valores,humano
+os preços de almoço e janta variam?,valores,humano
+é verdade que o almoço é mais caro que a janta?,valores,humano
+o café é de graça?,valores,humano
+eu tenho que pegar a ficha antes de servir?,fichas,humano
+eu consigo comprar a ficha por pix?,fichas,humano
+a compra da ficha pelo crédito tem taxa?,fichas,humano
+a ficha pode ser comprada online?,fichas,humano
+a ficha é renovável?,fichas,humano
+eu consigo usar a mesma ficha duas vezes no dia?,fichas,humano
+eu posso comprar quantas fichas de uma vez?,fichas,humano
+eu posso comprar fichas pro mês todo?,fichas,humano
+é possível pagar a ficha no dinheiro?,fichas,humano
+onde eu tenho que apresentar a ficha?,fichas,humano
+"eu tenho CadÚnico, eu consigo comer por um preço menor?",subsidio,humano
+eu consigo pagar menos no café da manhã tendo renda baixa?,subsidio,humano
+o ru é de graça pra quem tem subsídio?,subsidio,humano
+como eu consigo provar que tenho subsídio?,subsidio,humano
+eu preciso comprovar minha renda na hora de comprar?,subsidio,humano
+eu preciso ter carteirinha do bolsa família pra pagar menos?,subsidio,humano
+o subsídio vale pro ano todo?,subsidio,humano
+eu preciso renovar o subsídio?,subsidio,humano
+quanto é a janta pra quem paga menos?,valores,humano
+obrigada rui,chitchat,humano
+oii rui,chitchat,humano
+rui preciso tirar uma dúvida,chitchat,humano
+tchau,chitchat,humano
+até a próxima rui,chitchat,humano
+"muito obrigada, me ajudou muito",chitchat,humano
+oi rui vc me ajuda numa coisa?,chitchat,humano
+"tá bom rui, valeu",chitchat,humano
+oi rui querido!,chitchat,humano
+rui me ajuda por favor,chitchat,humano
+eu posso levar meu cachorro pro ru?,fora_dominio,humano
+como eu faço pra recuperar minha nota?,fora_dominio,humano
+como faz pra frequentar a academia escola?,fora_dominio,humano
+eu consigo levar minha própria comida pra comer no ru?,fora_dominio,humano
+lá no ru tem microondas?,fora_dominio,humano
+na ufms tem curso de piscicultura?,fora_dominio,humano
+como faz pra estudar na ufms?,fora_dominio,humano
+quem é de fora da uf pode comer no ru?,fora_dominio,humano
+tem lugar pra comer fast food dentro do campus?,fora_dominio,humano
+oi rui você é homem?,fora_dominio,humano
+o passe de estudante desse ano já tá disponível?,fora_dominio,humano
+o businho passa que horas?,fora_dominio,humano
+rui qual o bloco mais perto do ru?,fora_dominio,humano
+quem cozinha as refeições do ru é nutricionista?,fora_dominio,humano
+qual a temperatura hoje?,fora_dominio,humano
+Qual sua comida favorita?,fora_dominio,humano
+como que sobrevive à semana de provas? 😂🤣,fora_dominio,humano
+"Rui, o que vc acha de eu trancar meu curso",fora_dominio,humano
+como que faz pra fazer permuta interna na ufms?,fora_dominio,humano
+amoooo,chitchat,humano
+"Juro, que lacre rui mds!!! Ar-ra-sou",chitchat,humano

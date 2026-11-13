@@ -236,3 +236,80 @@ Bom dia,chitchat,humano
 Valeu.,chitchat,humano
 Ok.,chitchat,humano
 Brigada,chitchat,humano
+quais as opções?,cardapio,humano
+quantas vezes posso repetir?,cardapio,humano
+tem como montar marmita?,cardapio,humano
+que horas abre?,horarios,humano
+quando tem atendimento?,horarios,humano
+quanto tempo fica aberto durante o período noturno?,horarios,humano
+qual o valor sem o cadastro?,valores,humano
+quanto custa o almoço?,valores,humano
+tem opção mais barata?,valores,humano
+o que é essa ficha?,fichas,humano
+o preço é o mesmo?,valores,humano
+quanto tempo vale?,fichas,humano
+as cantinas aceitam essas fichas?,fichas,humano
+como fazer o cadastro?,subsidio,humano
+posso fazer se não tenho cad único?,subsidio,humano
+tem como fazer de outra forma?,subsidio,humano
+a uf abre hoje?,fora_dominio,humano
+o siscad não esta funcionando?,fora_dominio,humano
+o businho está funcionando hoje?,fora_dominio,humano
+hoje é feriado?,fora_dominio,humano
+até quando a faculdade fica aberta?,fora_dominio,humano
+alo,chitchat,humano
+boa tarde,chitchat,humano
+oi,chitchat,humano
+ok,chitchat,humano
+certo,chitchat,humano
+okay,chitchat,humano
+Tem opções vegetarianas?,cardapio,humano
+"Sou alérgica a ovo, tem como saber os ingredientes das comidas antes de comer?",cardapio,humano
+Posso levar marmita de casa para esquentar no RU?,cardapio,humano
+"Minha aula começa às 7h, que horas abre pro café da manhã?",horarios,humano
+A janta vai até que horas?,horarios,humano
+Abre domingo?,horarios,humano
+Todas as refeições são o mesmo valor?,valores,humano
+Pode levar convidados e quanto eles pagam?,valores,humano
+Tem desconto pra idoso?,valores,humano
+Passa cartão?,fichas,humano
+Parcela?,fichas,humano
+Posso comer hoje e pagar amanhã?,fichas,humano
+Onde faço cadastro pra pagar mais barato na refeição?,subsidio,humano
+Quem tem direito a desconto no RU?,subsidio,humano
+Tem limite de refeições para quem tem subsídio?,subsidio,humano
+Como chegar ao RU?,fora_dominio,humano
+Passa ônibus na frente do restaurante da faculdade?,fora_dominio,humano
+Que horas acendem as luzes do Campus?,fora_dominio,humano
+Amanhã tem aula?,fora_dominio,humano
+Oii,chitchat,humano
+"Oi, tudo bem?",chitchat,humano
+Boa tarde!,chitchat,humano
+"Ok, só isso mesmo",chitchat,humano
+Danke,chitchat,humano
+Thank u,chitchat,humano
+O que tem hoje para o almoço?,cardapio,humano
+Hoje o cardápio é peixe?,cardapio,humano
+No café da manhã do ru teve ovos mexidos?,cardapio,humano
+Que horas fecha o ru?,horarios,humano
+Que horas abre o ru?,horarios,humano
+Que horas servem o jantar?,horarios,humano
+Você paga com cad único?,subsidio,humano
+Quanto é o valor do ru?,valores,humano
+Onde pego a ficha para o almoço?,fichas,humano
+Qual é a fila para pegar a ficha?,fichas,humano
+Como funciona para jantar no ru?,fichas,humano
+Como você se cadastrou para o subsídio?,subsidio,humano
+Por que você tem direito ao subsídio?,subsidio,humano
+Eu tenho direito ao subsídio?,subsidio,humano
+Qual é a melhor cantina?,fora_dominio,humano
+Onde recarrego meu passe?,fora_dominio,humano
+Onde fica o corredor central?,fora_dominio,humano
+Qual é o bloco de medicina?,fora_dominio,humano
+Como chego no inqui?,fora_dominio,humano
+Eai,chitchat,humano
+oii,chitchat,humano
+bom dia,chitchat,humano
+Vlw,chitchat,humano
+obg,chitchat,humano
+gracias,chitchat,humano
