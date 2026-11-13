@@ -11,6 +11,8 @@ Os preços subsidiados são destinados aos estudantes em vulnerabilidade econôm
 
 **IMPORTANTE\!** O Cadúnico tem validade de 2 anos após a emissão. Se a validade expirou, é necessário procurar um CRAS para fazer a atualização. Além disso, sempre que houver mudanças (como alteração de endereço, nascimento ou morte de algum membro da família, mudança de renda ou troca de escola das crianças da família), é fundamental ir ao posto de atendimento do CadÚnico mais próximo para atualizar as informações. Lembre-se de atualizar o documento também nos sistemas acadêmicos da UFMS.
 
+A solicitação de direito ao subsídio pode ser feita a qualquer momento. A liberação do subsídio ocorre após a validação dos dados informados no questionário acadêmico.
+
 **Para utilizar o Restaurante Universitário com subsídio é necessário:**
 
 1. Estar regularmente matriculado nos cursos de graduação e/ou mestrado, doutorado e residência da UFMS;  
@@ -37,3 +39,6 @@ Podem se inscrever as famílias que se enquadram nos seguintes critérios:
 
 **Mas atenção\!** Somente estudantes que possuem renda familiar per capita de até **1,5 salários mínimos vigentes** têm direito ao subsídio do RU da UFMS.  
 Para mais informações, acesse: [https\://www\.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico](https://www.gov.br/mds/pt-br/acoes-e-programas/cadastro-unico).
+
+Observação
+O subsídio é um auxílio para baratear o custo das refeições no RU. É importante ressaltar que o barateamento não promove a isenção das refeições. Logo, mesmo que de forma reduzida, o beneficiário paga pela sua alimentação conforme valores definidos. 
