@@ -410,19 +410,14 @@ Oieeee qual o seu nome?,chitchat,humano
 "Voce é fera, vlw parça",chitchat,humano
 "Eai menó, qual a boa de hoje?",chitchat,humano
 "Agora vou indo ta be, valeu beijao",chitchat,humano
-O ru ta cheio nesse horário?,fora_dominio,humano
 "Como eu faço para revogar o cancelamento do meu cadunico? A mulher do CRAS disse que eu nao tenho mais direito e agora nao tenho mais o subsídio, mas isso é super injusto, eu tenho provas que ela ta errada",fora_dominio,humano
 Que horas começa a minha aula?,fora_dominio,humano
 "Nossa toda quarta é estrogonoff né? Tava com vontade mesmo, qual o cardápio do mandacari hoje?",fora_dominio,humano
-Tem micro-ondas pra esquentar minha marmita?,fora_dominio,humano
 Onde eu compro a ficha pro bingo?,fora_dominio,humano
 A uf ta aberta agora?,fora_dominio,humano
-Qual o horário mais movimentado?,fora_dominio,humano
 Qual o cardápio de hoje na ufgd?,fora_dominio,humano
 "Eu sou estudante de nutrição e queria saber qual a média calórica dos cardápios e como isso influencia nos estudantes acima dos 30 anos, é uma pergunta para o meu projeto de extensão",fora_dominio,humano
 Onde eu faço denúncia de intoxicação alimentar? Comi no mandacari e tive uma infecção,fora_dominio,humano
-Baseado nas calorias dos pratos da semana faça um plano de dieta para mim. Estou querendo emagrecer,fora_dominio,humano
-Quanto em porcentagem representam os veganos que se alimentam no ru?,fora_dominio,humano
 "Bom dia, eu ja tomei café da manhã, agora só falta almoçar. Onde fica a biblioteca da uf?",fora_dominio,humano
 Qual as comidas do ru hj?,cardapio,humano
 O q q tem pra comer hj?,cardapio,humano
@@ -493,12 +488,11 @@ Tmj parceiro,chitchat,humano
 "Vlw irmão, tmj",chitchat,humano
 Quais os lanches disponíveis na cantina das quadras?,fora_dominio,humano
 A cantina do multiuso está a aberta?,fora_dominio,humano
-O evento x reservou o RU?,fora_dominio,humano
 Porque tem carne de porco entre as opções de comida do RU?,cardapio,humano
 "Posso pagar uma ficha no almoço, ficar no RU ate a janta e comer de novo de graça?",fichas,humano
 Quanto é o cone do moço do RU?,fora_dominio,humano
 Qual o nome do menino que interrompe as pessoas para vender brownie?,fora_dominio,humano
-Tem limite de colheres de arroz que eu posso pegar?*****************,cardapio,humano
+Tem limite de colheres de arroz que eu posso pegar?,cardapio,humano
 o cardápio tem informação nutricional?,cardapio,humano
 o cardápio muda todo dia?,cardapio,humano
 o cardápio muda na janta?,cardapio,humano
@@ -558,20 +552,15 @@ oi rui vc me ajuda numa coisa?,chitchat,humano
 "tá bom rui, valeu",chitchat,humano
 oi rui querido!,chitchat,humano
 rui me ajuda por favor,chitchat,humano
-eu posso levar meu cachorro pro ru?,fora_dominio,humano
 como eu faço pra recuperar minha nota?,fora_dominio,humano
 como faz pra frequentar a academia escola?,fora_dominio,humano
-eu consigo levar minha própria comida pra comer no ru?,fora_dominio,humano
-lá no ru tem microondas?,fora_dominio,humano
 na ufms tem curso de piscicultura?,fora_dominio,humano
 como faz pra estudar na ufms?,fora_dominio,humano
-quem é de fora da uf pode comer no ru?,fora_dominio,humano
 tem lugar pra comer fast food dentro do campus?,fora_dominio,humano
 oi rui você é homem?,fora_dominio,humano
 o passe de estudante desse ano já tá disponível?,fora_dominio,humano
 o businho passa que horas?,fora_dominio,humano
 rui qual o bloco mais perto do ru?,fora_dominio,humano
-quem cozinha as refeições do ru é nutricionista?,fora_dominio,humano
 qual a temperatura hoje?,fora_dominio,humano
 Qual sua comida favorita?,fora_dominio,humano
 como que sobrevive à semana de provas? 😂🤣,fora_dominio,humano
@@ -592,6 +581,9 @@ Por favor me ajuda,chitchat,humano
 "Cara, to desesperada, me ajuda pelo amor de tudo que é mais sagrado",chitchat,humano
 "Hi, how are you?",chitchat,humano
 Oie!,chitchat,humano
+O RU funciona todos os dias?,horarios,humano
+tem desconto pra quem é pobre?,subsidio,humano
+Como faz pra receber isenção na ficha do RU?,subsidio,humano
 "G'day, mate!",chitchat,humano
 Faaaaaala meu mano Rui! Me ajuda aqui?,chitchat,humano
 Como vão seus semicondutores de silício?,chitchat,humano

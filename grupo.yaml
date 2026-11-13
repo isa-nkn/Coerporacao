@@ -18,9 +18,9 @@ grupo:
       rga: "202519060287"  
 
 tema:
-  nome: "Rui - O seu assistente virtual do RU"
+  nome: "Rui - O seu assistente virtual do RU da UFMS"
   descricao: 
-    "Assistente virtual que tira dúvidas de estudantes sobre o RU: cardápio, horários, valores, compra de fichas e subsídio."
+    "Assistente virtual que tira dúvidas de estudantes sobre o RU da UFMS: cardápio, horários, valores, compra de fichas e subsídio."
 dados:                  # caminhos relativos a este arquivo - não altere
   treino: dados/treino.csv
   teste: dados/teste.csv
@@ -114,9 +114,9 @@ intencoes:
 # das intenções; {opcao1}/{opcao2}, as duas intenções mais prováveis.
 respostas:
   chitchat:
-    saudacao: "Olá, eu sou o Rui, seu assistente virtual do RU! Como posso ajudar?"
+    saudacao: "Olá, eu sou o Rui, seu assistente virtual do RU da UFMS! Como posso ajudar?"
     agradecimento: "Por nada!"
     despedida: "Até logo!"
-    padrao: "Sou um assistente automático e posso ajudar com: {assuntos}."
+    padrao: "Sou um assistente automático do Restaurante Universitário da UFMS e posso ajudar com: {assuntos}."
   fora_dominio: "Desculpe, não sei responder sobre isso. Posso ajudar com: {assuntos}."
   esclarecer: "Não tenho certeza se entendi. Sua dúvida é sobre {opcao1} ou sobre {opcao2}?"
